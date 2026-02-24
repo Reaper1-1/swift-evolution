@@ -577,6 +577,7 @@ Some future features that can be added include:
 * **[SDKs, frameworks, and others](https://github.com/swiftlang/swift-package-manager/issues/9737)**: Add information to the SBOM about SDKs, frameworks, precompiled headers, vendored binaries.
 * **[Reverse-engineered SBOMs](https://github.com/swiftlang/swift-package-manager/issues/9725)**: Embed SBOM information in a Swift binary so that the SBOM can be extracted from a binary without needing to build source code
 * **[packageurl-swift library](https://github.com/swiftlang/swift-package-manager/issues/9726)**: Use the `packageurl-swift` library for the PURL implementation
+* **[JSON Schema validation libary](https://github.com/swiftlang/swift-package-manager/issues/9768)**: Use a JSON schema validation library for SBOM validation, instead of relying on internal implementation
 
 ## Appendix
 
